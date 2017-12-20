@@ -1,4 +1,3 @@
-var axios = require('axios');
 var readline = require('readline');
 var cheerio = require('cheerio');
 var express = require('express');
